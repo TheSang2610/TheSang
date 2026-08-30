@@ -55,13 +55,4 @@ I'm a fullstack developer with **X years** of experience building web products f
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheSang2610&theme=radical&utcOffset=7">
 <br>
 <img height="165em" src="https://streak-stats.demolab.com?user=TheSang2610&theme=radical&hide_border=false">
-
-
 </div>
-
----
-
-
-<p align="center">
-  <em>Always open to conversations about interesting projects and opportunities.</em>
-</p>
