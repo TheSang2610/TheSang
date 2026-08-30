@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=TheSang2610&label=Profile%20views&color=ff0080&style=flat" alt="Profile views">
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -31,7 +31,7 @@ I'm a fullstack developer with **X years** of experience building web products f
 - 💡 Interested in system architecture, performance optimization, and user experience
 - 📫 Reach me at **0384589559sang@gmail.com**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ I'm a fullstack developer with **X years** of experience building web products f
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
