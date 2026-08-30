@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Nguyen The Sang 👋</h1>
 
 </p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sang-th%E1%BA%BF-87b56042b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
