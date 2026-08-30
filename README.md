@@ -63,15 +63,7 @@ I'm a fullstack developer with **X years** of experience building web products f
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **PROJECT_NAME_1** | What problem it solves and the measurable result it achieved. | Next.js, Node.js, MongoDB | [Repo](https://github.com/TheSang2610/repo-1) · [Demo](https://demo-1.com) |
-| **PROJECT_NAME_2** | What problem it solves and the measurable result it achieved. | React, Express, MongoDB | [Repo](https://github.com/TheSang2610/repo-2) · [Demo](https://demo-2.com) |
-| **PROJECT_NAME_3** | What problem it solves and the measurable result it achieved. | TypeScript, Next.js, Tailwind | [Repo](https://github.com/TheSang2610/repo-3) |
-
----
 
 ## 📊 GitHub Stats
 
@@ -93,21 +85,6 @@ I'm a fullstack developer with **X years** of experience building web products f
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheSang2610&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies">
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSang2610&theme=redical&hide_border=true&area=true" alt="Activity Graph">
-</div>
-
----
 
 <p align="center">
   <em>Always open to conversations about interesting projects and opportunities.</em>
