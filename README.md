@@ -22,11 +22,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a fullstack developer with **X years** of experience building web products from initial design through to production. I care about writing readable, maintainable code that solves real problems for users.
+I'm a Computer Science student at the Posts and Telecommunications Institute of
+Technology (PTIT), Ho Chi Minh City. I'm learning fullstack web development and
+building projects with the MERN stack to put what I study into practice.
 
-- 🔭 Currently working as **YOUR_ROLE** at **YOUR_COMPANY**
-- 🌱 Currently going deeper into **TECH_YOU_ARE_LEARNING**
-- 💡 Interested in system architecture, performance optimization, and user experience
+- 🎓 I'm a Computer Science student at the Posts and Telecommunications Institute of Technology (PTIT) in Ho Chi Minh City.
+- 🌱 I enjoy building web applications and I'm currently focused on learning fullstack development with the MERN stack.
 - 📫 Reach me at **0384589559sang@gmail.com**
 
 
