@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Nguyen The Sang 👋</h1>
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/4d636aef-dadb-40c6-bfb5-9fbd94fe1bc9" /><h1 align="center">Hi, I'm Nguyen The Sang 👋</h1>
+![Uploading github-header-banner (1).png…]()
 
 <p align="center">
   <strong>Fullstack Developer</strong> · Ho Chi Minh City, Vietnam
