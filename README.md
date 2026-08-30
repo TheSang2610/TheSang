@@ -1,8 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/38ce6b50-ad63-43f6-8fca-d907599ee8c2" />
 <h1 align="center">Hi, I'm Nguyen The Sang 👋</h1>
 
-<p align="center">
-
 </p>
 
 <p align="center">
