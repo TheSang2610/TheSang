@@ -51,9 +51,6 @@ I'm a fullstack developer with **X years** of experience building web products f
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSang2610&theme=radical">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TheSang2610&theme=radical&show_icons=true&hide_border=false&count_private=true">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSang2610&theme=radical&layout=compact&hide_border=false&langs_count=8">
-
 <img height="165em" src="https://streak-stats.demolab.com?user=TheSang2610&theme=radical&hide_border=false">
 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSang2610&theme=radical">
