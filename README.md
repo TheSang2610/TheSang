@@ -38,7 +38,7 @@ I'm a fullstack developer with **X years** of experience building web products f
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,cpp,javascript,ts,react,nodejs,tailwind,php,mongodb,mysql,next,postman,vercel,vscode=11" />
+<img src="https://skillicons.dev/icons?i=html,css,cpp,javascript,ts,react,nodejs,tailwind,php,mongodb,next,postman,vercel,vscode=11" />
 </a>
 
 </div>
