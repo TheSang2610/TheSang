@@ -50,13 +50,11 @@ I'm a fullstack developer with **X years** of experience building web products f
 <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSang2610&theme=radical">
-
-<img height="165em" src="https://streak-stats.demolab.com?user=TheSang2610&theme=radical&hide_border=false">
-
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSang2610&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheSang2610&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSang2610&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheSang2610&theme=radical&utcOffset=7">
+<img height="165em" src="https://streak-stats.demolab.com?user=TheSang2610&theme=radical&hide_border=false">
+
 
 </div>
 
