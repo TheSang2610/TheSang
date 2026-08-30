@@ -1,7 +1,8 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/38ce6b50-ad63-43f6-8fca-d907599ee8c2" />
 <h1 align="center">Hi, I'm Nguyen The Sang 👋</h1>
 
-</p>
+<p align="center">
+
   <a href="https://www.linkedin.com/in/sang-th%E1%BA%BF-87b56042b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
