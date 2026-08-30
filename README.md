@@ -35,8 +35,8 @@ I'm a fullstack developer with **X years** of experience building web products f
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
+<p align="center">  
+  
 <a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,cpp,javascript,ts,react,nodejs,tailwind,php,mongodb,next,postman,vercel,vscode=11" />
 </a>
@@ -47,7 +47,7 @@ I'm a fullstack developer with **X years** of experience building web products f
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSang2610&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSang2610&theme=radical">
