@@ -1,8 +1,8 @@
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/4d636aef-dadb-40c6-bfb5-9fbd94fe1bc9" /><h1 align="center">Hi, I'm Nguyen The Sang 👋</h1>
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/f46b3af4-549c-4822-aa16-05ce999ef0b0" />
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/38ce6b50-ad63-43f6-8fca-d907599ee8c2" />
+<h1 align="center">Hi, I'm Nguyen The Sang 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Developer</strong> · Ho Chi Minh City, Vietnam
+
 </p>
 
 <p align="center">
